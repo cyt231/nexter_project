@@ -6,7 +6,7 @@ Nexter Project is a html/css only web site focus on pratice grid layout using SA
 ## Details
 All CSS files are already compile and all SASS files is in the SASS Folder.
 
-> Icons won't show if you're not using live-server functionality.
+**Icons won't show if you're not using live-server functionality.**
 
 ### NPM SCRIPTS
 

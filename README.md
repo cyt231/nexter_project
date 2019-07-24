@@ -1,7 +1,7 @@
 
 # [Nexter Project](https://cytsuda.github.io/nexter_project/)
 
-Nexter Project is a html/css only web site focus on pratice grid layout using SASS
+Nexter é um projeto desenvolvido com apenas HTML e CSS (SASS/SCSS) com o foco em praticar grid layout.
 
 ## Details
 All CSS files are already compile and all SASS files is in the SASS Folder.
